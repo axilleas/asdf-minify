@@ -16,10 +16,7 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
 - `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
 
 # Install
 
@@ -31,7 +28,7 @@ asdf plugin add minify
 asdf plugin add minify https://github.com/axilleas/asdf-minify.git
 ```
 
-minify:
+`minify`:
 
 ```shell
 # Show all installable versions
