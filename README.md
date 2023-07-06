@@ -51,8 +51,6 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/axilleas/asdf-minify/graphs/contributors)!
-
 # License
 
-See [LICENSE](LICENSE) © [Achilleas Pipinellis](https://github.com/axilleas/)
+See [LICENSE](LICENSE) © [Achilleas Pipinellis](https://gitlab.com/axil)
